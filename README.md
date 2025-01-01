@@ -2,7 +2,7 @@
 - ubuntu
 
 ```
-sudo apt update sudo apt install -y apache2 mariadb-server git
+sudo apt update && sudo apt install -y apache2 mariadb-server git
 ```
 
 ```
